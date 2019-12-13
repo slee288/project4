@@ -1,2 +1,5 @@
-training.1600000.processed.noemoticon.csv
-Untitled2.ipynb
+./trainingandtestdata/training.1600000.processed.noemoticon.csv
+./trainingandtestdata/testdata.manual.2009.06.14
+./trainingandtestdata/Untitled2.ipynb
+./trainingandtestdata/.ipynb_checkpoints
+./stanfordSentimentTreebank/.ipynb_checkpoints
